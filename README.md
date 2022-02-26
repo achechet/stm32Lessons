@@ -1,1 +1,2 @@
-# Lessons with CooCox with STM32F303Discovery
+# Lessons with STM32F303Discovery using CooCox IDE
+
