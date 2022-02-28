@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/IE:\github\stm32Lessons\CoLesson004 /IE:\github\stm32Lessons\CoLesson004\cmsis_boot /IE:\github\stm32Lessons\CoLesson004\cmsis /IE:\github\stm32Lessons">
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="17f40beee0e">
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f30x.S" lastModified="17f40bee5ab">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f30x.h" lastModified="17f40bee5c5">
+      </source>
+      <source file="..\..\..\cmsis\core_cm4_simd.h" lastModified="17f40beedfb">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f30x.h" lastModified="17f40bee9ab">
+         <include file="..\..\..\cmsis\core_cm4.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f30x.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm4.h" lastModified="17f40beea05">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+         <include file="..\..\..\cmsis\core_cm4_simd.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f30x_temp.c" lastModified="17f40bee5ce">
+         <include file="..\..\..\cmsis_boot\stm32f30x.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="17f40beee06">
+      </source>
+   </includePath>
+</dependencies>

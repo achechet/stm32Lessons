@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=colesson004.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\colesson004 -TC:\CooCox\CoIDE\configuration\ProgramData\colesson004/link.ld -g">
+      <target file="colesson004.elf" lastModified="17f411ed51a">
+         <source file="..\obj\main.o" lastModified="17f411ed2d8"/>
+         <source file="..\obj\system_stm32f30x_temp.o" lastModified="17f40dc3c0e"/>
+         <source file="..\obj\startup_stm32f30x.o" lastModified="17f40dc3c3e"/>
+      </target>
+   </processor>
+</history>
