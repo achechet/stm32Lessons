@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F303VC -DSTM32F30X -IE:\github\stm32Lessons\CoLesson005 -IE:\github\stm32Lessons -IE:\github\stm32Lessons\CoLesson005\cmsis -IE:\github\stm32Lessons\CoLesson005\cmsis_boot">
+      <target file="startup_stm32f30x.o" lastModified="17f44c83f36">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f30x.S" lastModified="17f448f790b"/>
+      </target>
+      <target file="system_stm32f30x_temp.o" lastModified="17f44c83f16">
+         <source file="..\..\..\cmsis_boot\system_stm32f30x_temp.c" lastModified="17f448f79a7"/>
+      </target>
+      <target file="main.o" lastModified="17f44d26e7d">
+         <source file="..\..\..\main.c" lastModified="17f44d26c87"/>
+      </target>
+   </processor>
+</history>
