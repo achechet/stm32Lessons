@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Project version="2G - 1.7.8" name="colesson005">
-  <Target name="colesson005" isCurrent="1">
+<Project version="2G - 1.7.8" name="colesson006">
+  <Target name="colesson006" isCurrent="1">
     <Device manufacturerId="9" manufacturerName="ST" chipId="520" chipName="STM32F303VC" boardId="" boardName=""/>
     <BuildOption>
       <Compile>
@@ -30,12 +30,12 @@
           <Memory name="IROM2" type="ReadOnly" size="" startValue=""/>
           <Memory name="IRAM2" type="ReadWrite" size="0x00002000" startValue="0x10000000"/>
         </MemoryAreas>
-        <LocateLinkFile path="c:/coocox/coide/configuration/programdata/colesson005/link.ld" type="0"/>
+        <LocateLinkFile path="c:/coocox/coide/configuration/programdata/colesson006/link.ld" type="0"/>
       </Link>
       <Output>
         <Option name="OutputFileType" value="0"/>
         <Option name="Path" value="./"/>
-        <Option name="Name" value="colesson005"/>
+        <Option name="Name" value="colesson006"/>
         <Option name="HEX" value="1"/>
         <Option name="BIN" value="1"/>
       </Output>
